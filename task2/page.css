@@ -1,1 +1,96 @@
+#head {
+    display: flex;
+}
 
+#heading {
+    background-color: none;
+}
+
+#Main {
+    margin-bottom: 20px;
+    margin-top: 70px;
+    margin-right: 100px;
+    color: rgb(228 76 26);
+}
+
+.hr {
+    background-color:#e9e3e3;
+    font-weight: 100;
+}
+
+.text-center {
+    min-height: 100vh;
+    background-color: rgb(249 250 254);
+    color: #100101;
+}
+
+.footer {
+    color: rgb(13 0 0);
+    height: 60px;
+    background-color: rgb(244 238 238 / 88%);
+}
+
+.footer p {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 15px;
+}
+
+#fotter img {
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 15%;
+    margin-right: 5px;
+}
+
+.menu {
+    padding-top: 50px;
+}
+
+body {
+    position: relative;
+}
+
+.img {
+    margin-top: 20px;
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    margin-left: 250px;
+    margin-right: 70px;
+    border: 2px solid rgb(52 177 174);
+}
+
+#btn {
+    margin-top: 20px;
+}
+
+.container {
+    background-color: rgb(194 201 228);
+    text-align: left;
+    padding-bottom: 30px;
+    width: 2500;
+}
+
+#earlyLife {
+    width: 700px;
+    margin-left: 180px;
+    align-items: center;
+}
+
+#career {
+    width: 700px;
+    margin-left: 180px;
+    align-items: center;
+}
+
+#awards {
+    width: 700px;
+    margin-left: 180px;
+    align-items: center;
+}
+
+#para {
+    font-weight: bold;
+}
